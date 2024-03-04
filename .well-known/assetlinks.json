@@ -12,7 +12,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.ed.test",
+      "package_name": "com.iloen.melon",
       "sha256_cert_fingerprints": 
       ["CE:B5:6D:E3:CC:97:35:A9:CB:39:CE:2B:59:BB:7E:61:9E:44:23:2D:8D:BC:A3:54:FF:6E:06:47:C2:B3:74:04"]
     }
